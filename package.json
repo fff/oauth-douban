@@ -1,0 +1,18 @@
+{
+	"author": "goddyzhao <goddy128@gmail.com> (http://goddyzhao.tumblr.com)"
+  , "name": "oauth-douban"
+  , "description": "A oauth plugin of douban api based on node.js"
+  , "keywords": ["oauth", "douban", "node"]
+  , "version": "0.0.1"
+  , "homepage": "https://github.com/goddyZhao/oauth-douban"
+  , "repository": {
+		"type": "git"
+	  , "url": "git://github.com/goddyZhao/oauth-douban.git"
+	}
+  , "main": "index"
+  , "engines": {
+		"node": ">=0.4.x"
+	}
+  , "dependencies": {}
+  , "devDependencies": {}
+}
