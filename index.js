@@ -1,1 +1,1 @@
-module.exports = {OauthDouban: "oauth-douban2"};
+module.exports = require("./lib/oauth-douban");
