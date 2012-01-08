@@ -2,7 +2,7 @@
 	"author": "goddyzhao <goddy128@gmail.com> (http://goddyzhao.tumblr.com)"
   , "name": "oauth-douban"
   , "description": "A oauth plugin of douban api based on node.js"
-  , "keywords": ["oauth", "douban", "node"]
+  , "keywords": ["oauth", "douban", "node", "express", "connect"]
   , "version": "0.0.1"
   , "homepage": "https://github.com/goddyZhao/oauth-douban"
   , "repository": {
