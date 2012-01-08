@@ -1,2 +1,5 @@
 #eclipse
 .project
+
+#node package
+node_modules/
